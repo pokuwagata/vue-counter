@@ -3,7 +3,7 @@
     <Counter/>
   </div>
 </template>
-
+i
 <script>
 import Counter from './components/Counter'
 
